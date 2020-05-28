@@ -7,10 +7,10 @@ One of our exams decided to put our exam on a Saturday in order for us to have a
 Takes teacher and student inputs in order to accommodate a schedule that works well for everyone. 
 
 ## How we built it
-java and eclipse
+Using Java and Eclipse.
 
 ## Challenges we ran into
-compiling specific methods and combining classes... and the optimizing function itself
+Compiling specific methods and combining classes... and the optimizing function itself.
 
 ## Accomplishments that we're proud of
 Learning from experience, as a group and through trial and error. Though we did not succeed, we learned how to work in a group environment and had fun!
@@ -19,4 +19,4 @@ Learning from experience, as a group and through trial and error. Though we did 
 We need GitHub, and possibly collaborate easily on it
 
 ## What's next for Optimizing Exam Schedules
-tba - we are to find out!
+TBA - We are excited to find out!
